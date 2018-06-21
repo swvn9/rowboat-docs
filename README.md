@@ -1,8 +1,6 @@
-# Speedboat
+# Mirror of Rowboat documentation updated 21 June 2018
 
-Speedboat is a clone of Rowboat taken before the change to REACT and addition of premium. This documentation is also a clone taken at the time before the update to prevent confusion between versions ans is intended for use when configuring SPEEDBOAT
-
-_I did not create Speedboat or this documentation, full credit goes to _[_b1naryth1ef/b1nzy_](https://github.com/b1naryth1ef)_ on github._
+_I did not create Rowboat or this documentation, full credit goes to _[_b1naryth1ef/b1nzy_](https://github.com/b1naryth1ef)_ on github._
 
 ---
 
